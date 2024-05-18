@@ -1,0 +1,15 @@
+[submodule "submodules/kalman_robot"]
+	path = submodules/kalman_robot
+	url = git@github.com:agh-space-systems-rover/kalman_robot.git
+[submodule "submodules/kalman_arm_moveit_config"]
+	path = submodules/kalman_arm_moveit_config
+	url = git@github.com:agh-space-systems-rover/kalman_arm_moveit_config.git
+	branch = master
+[submodule "submodules/kalman_arm_controller"]
+	path = submodules/kalman_arm_controller
+	url = git@github.com:agh-space-systems-rover/kalman_arm_controller.git
+	branch = main
+[submodule "submodules/moveit_msgs"]
+	path = submodules/moveit_msgs
+	url = git@github.com:moveit/moveit_msgs.git
+	branch = master
