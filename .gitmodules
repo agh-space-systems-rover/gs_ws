@@ -5,3 +5,6 @@
 	path = submodules/moveit_msgs
 	url = git@github.com:moveit/moveit_msgs.git
 	branch = master
+[submodule "submodules/tilescrapper"]
+	path = submodules/tilescrapper
+	url = git@github.com:agh-space-systems-rover/tilescrapper.git
