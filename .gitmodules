@@ -8,3 +8,6 @@
 [submodule "submodules/tilescrapper"]
 	path = submodules/tilescrapper
 	url = git@github.com:agh-space-systems-rover/tilescrapper.git
+[submodule "submodules/rosbridge_suite"]
+	path = submodules/rosbridge_suite
+	url = git@github.com:RobotWebTools/rosbridge_suite.git
